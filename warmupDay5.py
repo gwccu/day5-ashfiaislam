@@ -1,1 +1,4 @@
-# File name: warmupDay5.py
+# File name: warmupDay
+
+myName = "ashfia"
+guess = input("guess my name ")
